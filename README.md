@@ -5,4 +5,5 @@
 
 ## Results
 
-https://github.com/nigelrowser/PyBer_Analysis/blob/main/Resources/TotalFarebyCityType.png?raw=true
+![TotalFarebyCityType](https://user-images.githubusercontent.com/74877648/104145220-2c64c980-5394-11eb-9338-192dcbb721e6.png)
+
