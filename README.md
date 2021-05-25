@@ -12,6 +12,6 @@
 ## Summary
 ### Business Recommendations
 
-#### 1. Business marketing efforts should be focused on urban areas due to the percieved increase in competition becuase of the amount of riders and the need for service.
+#### 1. Business marketing efforts should be focused on urban areas due to the percieved increase in competition because of the amount of riders and the need for service.
 #### 2. The business should continue to recruit and hire urban drivers so the company is able to keep up with demand. 
-#### 3. The company should weigh the cost of doing business versus the reward in regards on diciding to continue to serve rural areas because there are few riders. 
+#### 3. The company should weigh the cost of doing business versus the reward in regards on deciding to continue to serve rural areas because there are few riders. 
